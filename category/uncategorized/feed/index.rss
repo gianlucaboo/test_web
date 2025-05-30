@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Mapping the Transnational Circulation and Control of Small Arms in Latin America</title>
+	<atom:link href="https://armsflowlatam.wordpress.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://armsflowlatam.wordpress.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 30 May 2025 15:23:25 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='armsflowlatam.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://s0.wp.com/i/buttonw-com.png</url>
+		<title>Uncategorized &#8211; Mapping the Transnational Circulation and Control of Small Arms in Latin America</title>
+		<link>https://armsflowlatam.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://armsflowlatam.wordpress.com/osd.xml" title="Mapping the Transnational Circulation and Control of Small Arms in Latin America" />
+	<atom:link rel='hub' href='https://armsflowlatam.wordpress.com/?pushpress=hub'/>
+</channel>
+</rss>
